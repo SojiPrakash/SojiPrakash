@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SojiPrakash
-- 👀 I’m interested in DEVOPS
-- 🌱 I’m currently learning AWS
+- 👀 I’m interested in Python Developing
+- 🌱 I’m currently learning Devops
 - 📫 How to reach me : www.linkedin.com/in/sojiprakash/
 - ⚡ Fun fact: It's all 0's and 1's
 
